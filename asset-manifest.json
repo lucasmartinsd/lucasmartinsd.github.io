@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc051938.chunk.css",
+    "main.js": "/static/js/main.7fc5f771.chunk.js",
+    "main.js.map": "/static/js/main.7fc5f771.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.749a0bb2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.749a0bb2.js.map",
+    "static/js/2.7da853bc.chunk.js": "/static/js/2.7da853bc.chunk.js",
+    "static/js/2.7da853bc.chunk.js.map": "/static/js/2.7da853bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bc051938.chunk.css.map": "/static/css/main.bc051938.chunk.css.map",
+    "static/js/2.7da853bc.chunk.js.LICENSE.txt": "/static/js/2.7da853bc.chunk.js.LICENSE.txt",
+    "static/media/earth.72976102.png": "/static/media/earth.72976102.png",
+    "static/media/moon.a0469f7a.png": "/static/media/moon.a0469f7a.png",
+    "static/media/purple.ddc68459.png": "/static/media/purple.ddc68459.png",
+    "static/media/red.0f2f0c05.png": "/static/media/red.0f2f0c05.png",
+    "static/media/redstars.d69e60d2.png": "/static/media/redstars.d69e60d2.png",
+    "static/media/rocket.36a1219f.png": "/static/media/rocket.36a1219f.png",
+    "static/media/saturn.fe14c610.png": "/static/media/saturn.fe14c610.png",
+    "static/media/sun.0d151320.png": "/static/media/sun.0d151320.png",
+    "static/media/whitestars.5a17918b.png": "/static/media/whitestars.5a17918b.png",
+    "static/media/yellowstars.27d9a080.png": "/static/media/yellowstars.27d9a080.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.749a0bb2.js",
+    "static/js/2.7da853bc.chunk.js",
+    "static/css/main.bc051938.chunk.css",
+    "static/js/main.7fc5f771.chunk.js"
+  ]
+}
